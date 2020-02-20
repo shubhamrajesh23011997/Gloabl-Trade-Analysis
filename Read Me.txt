@@ -1,0 +1,5 @@
+GLOBAL TRADE ANALYSIS - TABLEAU FILE
+After_Treating_missing_values - Cleaned Data file
+Tableau-Project_R_file - R file
+Project ppt
+Raw Data - Raw Data file
